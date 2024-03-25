@@ -6,9 +6,9 @@
 		cnv.height = innerHeight
 	}
 	init()
-	const namberOfRings = 3
-	const ringRadiusOffset = 7
-	const RingRadius = 200
+	const namberOfRings = 10
+	const ringRadiusOffset = 35
+	const RingRadius = 100
 	const waveOffset = 15
 	const colors = ['#771122', '#bb1122', '#ff1122']
 	let startAngle = 0
